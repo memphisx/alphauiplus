@@ -72,7 +72,6 @@
                 <aspectratio>keep</aspectratio>
                 <texture>special://skin/media/alienware/icon_noticealert_small.png</texture>
             </control>
-            <!--
             <control type="image">
                 <top>65</top>
                 <left>130</left>
@@ -81,7 +80,6 @@
                 <aspectratio>keep</aspectratio>
                 <texture>special://skin/media/alienware/localized/X_dismiss.png</texture>
             </control>
-            -->
             <control type="label">
                 <top>20</top>
                 <left>70</left>
@@ -119,6 +117,114 @@
             </control>
         </control>
 
+        <!-- Settings, Help, Power and Home buttons on top of the screen -->
+        <control type="group">
+            <left>230r</left>
+            <top>55</top>
+            <visible>True</visible>
+            <animation effect="fade" time="250" condition="Window.Previous(Home)">WindowOpen</animation>
+            <animation effect="fade" time="250" condition="Window.Next(Home)">WindowClose</animation>
+            <focusposition>1</focusposition>
+            <movement>1</movement>
+            <control type="button" id="9002">
+                <onleft>9005</onleft>
+                <onright>9003</onright>
+                <ondown>9000</ondown>
+                <description>Home push button</description>
+                <left>0</left>
+                <top>0</top>
+                <width>45</width>
+                <height>45</height>
+                <label>31606</label>
+                <font>-</font>
+                <onclick>XBMC.RunScript("special://skin\scripts\launch_xbmchome.py")</onclick>
+                <texturefocus border="5">floor_buttonFO.png</texturefocus>
+                <texturenofocus border="5">floor_button.png</texturenofocus>
+            </control>
+            <control type="image">
+                <description>Home Icon</description>
+                <left>5</left>
+                <top>5</top>
+                <width>35</width>
+                <height>35</height>
+                <aspectratio>keep</aspectratio>
+                <texture>icon_home.png</texture>
+            </control>
+            <control type="button" id="9003">
+                <onleft>9002</onleft>
+                <onright>9004</onright>
+                <ondown>9000</ondown>
+                <description>Help push button</description>
+                <left>55</left>
+                <top>0</top>
+                <width>45</width>
+                <height>45</height>
+                <label>31608</label>
+                <font>-</font>
+                <onclick>XBMC.RunScript("special://skin\scripts\help.py")</onclick>
+                <texturefocus border="5">floor_buttonFO.png</texturefocus>
+                <texturenofocus border="5">floor_button.png</texturenofocus>
+            </control>
+            <control type="image">
+                <description>Help Icon</description>
+                <left>60</left>
+                <top>5</top>
+                <width>35</width>
+                <height>35</height>
+                <aspectratio>keep</aspectratio>
+                <texture>special://skin/media/alienware/icon_help.png</texture>
+            </control>
+            <control type="button" id="9004">
+                <onleft>9003</onleft>
+                <onright>9005</onright>
+                <ondown>9000</ondown>
+                <description>Settings push button</description>
+                <left>110</left>
+                <top>0</top>
+                <width>45</width>
+                <height>45</height>
+                <label>31606</label>
+                <font>-</font>
+                <onclick>XBMC.RunScript("special://skin\scripts\settings.py")</onclick>
+                <texturefocus border="5">floor_buttonFO.png</texturefocus>
+                <texturenofocus border="5">floor_button.png</texturenofocus>
+            </control>
+            <control type="image">
+                <description>Settings Icon</description>
+                <left>115</left>
+                <top>5</top>
+                <width>35</width>
+                <height>35</height>
+                <aspectratio>keep</aspectratio>
+                <texture>special://skin/media/alienware/icon_settings.png</texture>
+            </control>
+            <control type="button" id="9005">
+                <onleft>9004</onleft>
+                <onright>9002</onright>
+                <ondown>9000</ondown>
+                <description>Power push button</description>
+                <left>165</left>
+                <top>0</top>
+                <width>45</width>
+                <height>45</height>
+                <label>31604</label>
+                <font>-</font>
+                <onclick>XBMC.RunScript("special://skin\scripts\power_menu.py")</onclick>
+                <texturefocus border="5">floor_buttonFO.png</texturefocus>
+                <texturenofocus border="5">floor_button.png</texturenofocus>
+            </control>
+            <control type="image">
+                <description>Power Icon</description>
+                <left>170</left>
+                <top>5</top>
+                <width>35</width>
+                <height>35</height>
+                <aspectratio>keep</aspectratio>
+                <texture>special://skin/media/alienware/icon_power.png</texture>
+            </control>
+        </control>
+
+
 
         <control type="group">
             <top>180</top>
@@ -129,6 +235,7 @@
                 <onleft>9000</onleft>
                 <onright>9000</onright>
                 <ondown>9001</ondown>
+                <onup>9002</onup>
                 <focusposition>1</focusposition>
                 <movement>1</movement>
                 <orientation>Horizontal</orientation>
@@ -214,25 +321,25 @@
                 </focusedlayout>
                 <content>
                     <item id="91">
-                        <label>31605</label> <!-- Launch Steam -->
+                    <label>31605</label> <!-- Launch Steam -->
                         <onclick>XBMC.RunScript("special://skin\scripts\launch_steam.py")</onclick>
                         <icon>special://skin/media/alienware/icon_SteamLogo.png</icon>
                     </item>
-                    <item id="92">
-                        <label>31606</label> <!-- settings -->
-                        <onclick>XBMC.RunScript("special://skin\scripts\settings.py")</onclick>
-                        <icon>special://skin/media/alienware/icon_settings.png</icon>
-                    </item>
                     <item id="93">
-                        <label>31608</label> <!-- help -->
-                        <icon>special://skin/media/alienware/icon_Helpcontroller.png</icon>
-                        <onclick>XBMC.RunScript("special://skin\scripts\help.py")</onclick> 
+                        <label>31963</label> <!-- Launch Kodi -->
+                        <icon>special://skin/media/alienware/icon_kodi.png</icon>
+                        <onclick>XBMC.RunScript("special://skin\scripts\launch_kodi.py")</onclick> 
+                    </item>
+                    <item id="92">
+                        <label>31961</label> <!-- Launch Origin -->
+                        <onclick>XBMC.RunScript("special://skin\scripts\launch_origin.py")</onclick>
+                        <icon>special://skin/media/alienware/icon_origin.png</icon>
                     </item>
                     <item id="90">
-                        <label>31604</label> <!-- POWER -->
-                        <onclick>XBMC.RunScript("special://skin\scripts\power_menu.py")</onclick>
-                        <icon>special://skin/media/alienware/icon_power.png</icon>
-                        <thumb>special://skin/media/alienware/icon_power.png</thumb>
+                        <label>31962</label> <!-- Launch Emulation Station -->
+                        <onclick>XBMC.RunScript("special://skin\scripts\launch_emulationstation.py")</onclick>
+                        <icon>special://skin/media/alienware/icon_emulationstation.png</icon>
+                        <thumb>special://skin/media/alienware/icon_emulationstation.png</thumb>
                     </item>
                 </content>
             </control>
