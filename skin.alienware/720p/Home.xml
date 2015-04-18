@@ -119,7 +119,7 @@
 
         <!-- Settings, Help, Power and Home buttons on top of the screen -->
         <control type="group">
-            <left>230r</left>
+            <left>285r</left>
             <top>55</top>
             <visible>True</visible>
             <animation effect="fade" time="250" condition="Window.Previous(Home)">WindowOpen</animation>
@@ -200,10 +200,34 @@
             </control>
             <control type="button" id="9005">
                 <onleft>9004</onleft>
-                <onright>9002</onright>
+                <onright>9006</onright>
                 <ondown>9000</ondown>
                 <description>Power push button</description>
                 <left>165</left>
+                <top>0</top>
+                <width>45</width>
+                <height>45</height>
+                <label>31604</label>
+                <font>-</font>
+                <onclick>ActivateWindow(AppearanceSettings)</onclick>
+                <texturefocus border="5">floor_buttonFO.png</texturefocus>
+                <texturenofocus border="5">floor_button.png</texturenofocus>
+            </control>
+            <control type="image">
+                <description>Power Icon</description>
+                <left>170</left>
+                <top>5</top>
+                <width>35</width>
+                <height>35</height>
+                <aspectratio>keep</aspectratio>
+                <texture>special://skin/media/icon_pictures.png</texture>
+            </control>
+            <control type="button" id="9006">
+                <onleft>9005</onleft>
+                <onright>9002</onright>
+                <ondown>9000</ondown>
+                <description>Power push button</description>
+                <left>220</left>
                 <top>0</top>
                 <width>45</width>
                 <height>45</height>
@@ -215,7 +239,7 @@
             </control>
             <control type="image">
                 <description>Power Icon</description>
-                <left>170</left>
+                <left>225</left>
                 <top>5</top>
                 <width>35</width>
                 <height>35</height>

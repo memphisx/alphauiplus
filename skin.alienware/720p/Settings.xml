@@ -104,6 +104,12 @@
               <onclick>-</onclick>
               <icon>-</icon>
             </item>
+            <item id="6">
+              <label>31964</label>
+              <!-- XBMC -->
+              <onclick>-</onclick>
+              <icon>-</icon>
+            </item>
           </content>
         </control>
         <control type="group" id="9001">
@@ -1353,6 +1359,126 @@
             <control type="list" id="9071">
               <defaultcontrol always="true">9072</defaultcontrol>
               <description>HDMI In Group</description>
+              <width>200</width>
+              <height>480</height>
+              <itemgap>0</itemgap>
+              <pagecontrol>25</pagecontrol>
+              <scrolltime tween="sine" easing="out">200</scrolltime>
+              <orientation>vertical</orientation>
+              <visible>true</visible>
+              <onright>9073</onright>
+              <onleft>9000</onleft>
+              <itemlayout height="45" width="190">
+                <control type="image">
+                  <left>0</left>
+                  <top>0</top>
+                  <height>45</height>
+                </control>
+                <control type="label">
+                  <left>15</left>
+                  <top>0</top>
+                  <height>45</height>
+                  <align>left</align>
+                  <aligny>center</aligny>
+                  <label>$INFO[ListItem.Label]</label>
+                </control>
+              </itemlayout>
+              <focusedlayout height="45" width="190">
+                <control type="image">
+                  <left>0</left>
+                  <top>0</top>
+                  <height>45</height>
+                  <visible>Control.HasFocus(9071) | Control.HasFocus(9074) | Control.HasFocus(9075)</visible>
+                  <texture border="2">special://skin/media/alienware/selected.png</texture>
+                </control>
+                <control type="label">
+                  <visible>![Control.HasFocus(9071) | Control.HasFocus(9074) | Control.HasFocus(9075)]</visible>
+                  <left>15</left>
+                  <top>0</top>
+                  <height>45</height>
+                  <align>left</align>
+                  <aligny>center</aligny>
+                  <label>$INFO[ListItem.Label]</label>
+                </control>
+                <control type="label">
+                  <visible>Control.HasFocus(9071) | Control.HasFocus(9074) | Control.HasFocus(9075)</visible>
+                  <left>15</left>
+                  <top>0</top>
+                  <height>45</height>
+                  <align>left</align>
+                  <aligny>center</aligny>
+                  <label>$INFO[ListItem.Label]</label>
+                </control>
+              </focusedlayout>
+              <content>
+                <item id="9072">
+                  <label>31761</label>
+                  <!-- activate -->
+                  <onclick>Control.SetFocus(9075)</onclick>
+                  <icon>-</icon>
+                </item>
+              </content>
+            </control>
+            <control type="group" id="9073">
+              <defaultcontrol always="true">9074</defaultcontrol>
+              <description>HDMI In Control Group</description>
+              <left>190</left>
+              <width>450</width>
+              <defaultcontrol>2</defaultcontrol>
+              <control type="group" id="9074">
+                <defaultcontrol always="true">9075</defaultcontrol>
+                <left>0</left>
+                <top>0</top>
+                <height>45</height>
+                <width>450</width>
+                <visible>Control.HasFocus(9071) | Control.HasFocus(9075)</visible>
+                <control type="button" id="9075">
+                  <description>Left Button</description>
+                  <left>0</left>
+                  <width>450</width>
+                  <height>45</height>
+                  <align>center</align>
+                  <aligny>center</aligny>
+                  <textcolor>FFFFFFFF</textcolor>
+                  <focusedcolor>FFFFFFFF</focusedcolor>
+                  <disabledcolor>80FFFFFF</disabledcolor>
+                  <invalidcolor>FFFFFFFF</invalidcolor>
+                  <texturefocus border="2">special://skin/media/alienware/selected.png</texturefocus>
+                  <texturenofocus>special://skin/media/alienware/button.png</texturenofocus>
+                  <onleft>9071</onleft>
+                  <label>31760</label>
+                </control>
+              </control>
+              <control type="label">
+                <top>70</top>
+                <left>20</left>
+                <width>420</width>
+                <align>left</align>
+                <label>31764</label>
+                <wrapmultiline>true</wrapmultiline>
+                <visible>!Control.IsEnabled(9075) + Control.IsVisible(9074)</visible>
+              </control>
+              <control type="label">
+                <top>70</top>
+                <left>20</left>
+                <width>420</width>
+                <align>left</align>
+                <label>31766</label>
+                <wrapmultiline>true</wrapmultiline>
+                <visible>Control.IsEnabled(9075) + Control.IsVisible(9074)</visible>
+              </control>
+            </control>
+          </control>
+          <!--#############################################################################################-->
+          <!--##############################         Kodi Settings Group      #############################-->
+          <control type="group" id="9080">
+            <defaultcontrol always="true">9081</defaultcontrol>
+            <description>Kodi Settings Group</description>
+            <visible>Container(9000).Position(5)</visible>
+            <!-- HDMI In list -->
+            <control type="list" id="9081">
+              <defaultcontrol always="true">9082</defaultcontrol>
+              <description>Kodi Settings Group</description>
               <width>200</width>
               <height>480</height>
               <itemgap>0</itemgap>

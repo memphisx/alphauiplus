@@ -1089,3 +1089,7 @@ msgstr ""
 msgctxt "#31963"
 msgid "Launch[CR]Kodi"
 msgstr ""
+
+msgctxt "#31964"
+msgid "Kodi Settings"
+msgstr ""
