@@ -536,6 +536,399 @@ msgctxt "#31511"
 msgid "Channel Options"
 msgstr "Kanaal opties"
 
+#START Alienware skin
+#Power menu
+
+msgctxt "#31600"
+msgid "WELCOME TO ALPHA UI"
+msgstr "WELKOM BIJ ALPHA UI"
+
+msgctxt "#31601"
+msgid "SHUT DOWN CONSOLE"
+msgstr "CONSOLE AFSLUITEN"
+
+msgctxt "#31602"
+msgid "RESTART CONSOLE"
+msgstr "CONSOLE OPNIEUW OPSTARTEN"
+
+msgctxt "#31603"
+msgid "SLEEP"
+msgstr "SLAAPSTAND"
+
+# Home menu
+msgctxt "#31604"
+msgid "Power"
+msgstr "VOEDING"
+
+msgctxt "#31605"
+msgid "Launch[CR]Steam"
+msgstr "START[CR]STEAM"
+
+msgctxt "#31606"
+msgid "Settings"
+msgstr "INSTELLINGEN"
+
+msgctxt "#31607"
+msgid "GO TO DESKTOP"
+msgstr "GA NAAR BUREAUBLAD"
+
+msgctxt "#31608"
+msgid "HELP"
+msgstr "HELP"
+
+msgctxt "#31609"
+msgid "Launch System Menu at anytime by pressing LT + LB + RT + RB + Guide button."
+msgstr "Start systeemmenu op elk moment door[CR]indrukken van LT + LB + RT + RB + Gids-toets."
+
+# Settings screen - Video
+msgctxt "#31610"
+msgid "Video"
+msgstr "Video"
+
+msgctxt "#31611"
+msgid "Display"
+msgstr "Beeldscherm"
+
+msgctxt "#31612"
+msgid "Scale to Screen"
+msgstr "Grootte aanpassen aan beeldscherm"
+
+msgctxt "#31613"
+msgid "Display Resolution"
+msgstr "Schermresolutie"
+
+msgctxt "#31614"
+msgid "Refresh Rate"
+msgstr "Vernieuwingssnelheid"
+
+msgctxt "#31615"
+msgid "For an optimal gaming experience, please adjust your television's picture setting to properly fit the Alpha's video output.\n"
+"\n"
+"To do this you will need to use your television's remote control."
+msgstr "Voor een optimale spelervaring past u de beeldinstellingen van uw tv aan zodat ze goed passen bij de videoweergave van Alpha. \n"
+"\n"
+"Wanneer u dit doet, hebt u de afstandsbediening van uw tv nodig."
+
+msgctxt "#31616"
+msgid "Display Settings"
+msgstr "Beeldscherminstellingen"
+
+msgctxt "#31617"
+msgid "Do you want to keep this display settings?"
+msgstr "Wilt u deze beeldscherminstellingen behouden?"
+
+msgctxt "#31618"
+msgid "Apply"
+msgstr "Toepassen"
+
+msgctxt "#31619"
+msgid "Begin Scaling"
+msgstr "BEGIN MET GROOTTE AANPASSEN"
+
+msgctxt "#31620"
+msgid "On most televisions, you can access the scaling tool under Menu > Settings > Picture.\n\nFrequently this option called: scale, view mode, scan, aspect ratio, screen fit, or smart fit.\n\nThe goal is to ensure the tip of each triangle is in the very corner of your television's screen.\nFor specific instructions on screen scaling for your television, please consult your TV's manual."
+msgstr "Op de meeste televisies kunt u de functie voor het aanpassen van de grootte vinden onder Menu > Instellingen > Afbeelding.\n"
+"\n"
+"Vaak wordt deze optie het volgende genoemd: schaalgrootte, weergavestand, beeldverhouding, volledig scherm, of smart fit.\n"
+"\n"
+"Het doel is om ervoor te zorgen dat de punt van elke driehoek in elke hoek van uw televisiescherm is.\n"
+"Raadpleeg voor specifieke instructies over schaalgrootte van uw beeldscherm voor uw televisie de handleiding van uw tv."
+
+msgctxt "#31621"
+msgid "Confirm"
+msgstr "Bevestigen"
+
+# Settings screen - Audio
+msgctxt "#31635"
+msgid "Audio"
+msgstr "Audio"
+
+msgctxt "#31636"
+msgid "Output"
+msgstr "Uitgang"
+
+msgctxt "#31637"
+msgid "Volume"
+msgstr "Volume"
+
+msgctxt "#31638"
+msgid "Source"
+msgstr "Ingang"
+
+msgctxt "#31639"
+msgid "Adjust"
+msgstr "Aanpassen"
+
+msgctxt "#31640"
+msgid "Audio output has been changed successfully. For changes to take effect you must restart Alpha."
+msgstr "Geluidsweergave is met succes gewijzigd. Voor het effectueren van de wijzigingen moet u Alpha opnieuw opstarten."
+
+msgctxt "#31641"
+msgid "Unable to change audio setting. Please check audio cable is connected properly."
+msgstr "Het wijzigen van de geluidsinstelling lukt niet. Controleer of de geluidskabel goed is aangesloten."
+
+# Settings screen - Backgrounds
+msgctxt "#31660"
+msgid "Backgrounds"
+msgstr "Achtergronden"
+
+# Settings screen - Console
+msgctxt "#31685"
+msgid "Customization"
+msgstr "Aanpassing"
+
+msgctxt "#31686"
+msgid "AlienFX"
+msgstr "AlienFX"
+
+msgctxt "#31687"
+msgid "Updates"
+msgstr "Updates"
+
+msgctxt "#31688"
+msgid "Boot Options"
+msgstr "Opties voor opstarten"
+
+# Settings screen - network
+msgctxt "#31710"
+msgid "Network"
+msgstr "Netwerk"
+
+msgctxt "#31711"
+msgid "Wifi"
+msgstr "Wi-Fi"
+
+msgctxt "#31712"
+msgid "Information"
+msgstr "informatie"
+
+msgctxt "#31713"
+msgid "Choose a wireless network"
+msgstr "SELECTEER EEN DRAADLOOS NETWERK"
+
+msgctxt "#31714"
+msgid "Enter network password for {0}"
+msgstr "Vul het netwerkwachtwoord in voor {0}"
+
+msgctxt "#31715"
+msgid "Error"
+msgstr "Fout"
+
+msgctxt "#31716"
+msgid "Unable to connect. Please check your password and try again."
+msgstr "Kan geen verbinding maken. Controleer uw wachtwoord en probeer het opnieuw."
+
+msgctxt "#31717"
+msgid "Disconnect Wifi Network"
+msgstr "Ontkoppel het Wi-Fi-netwerk"
+
+msgctxt "#31718"
+msgid "Do you want to disconnect {0} ?"
+msgstr "Wilt u {0} ontkoppelen?"
+
+msgctxt "#31719"
+msgid "Unable to disconnect. Please try again."
+msgstr "Kan niet ontkoppelen. Probeer het opnieuw."
+
+msgctxt "#31720"
+msgid "Network information"
+msgstr "NETWERKINFORMATIE"
+
+msgctxt "#31721"
+msgid "Not ready"
+msgstr "Niet gereed"
+
+msgctxt "#31722"
+msgid "Connected"
+msgstr "Verbonden"
+
+msgctxt "#31723"
+msgid "Ad hoc network formed"
+msgstr "Adhoc-netwerk geformeerd"
+
+msgctxt "#31724"
+msgid "Disconnecting"
+msgstr "Ontkoppelen..."
+
+msgctxt "#31725"
+msgid "Disconnected"
+msgstr "Ontkoppeld"
+
+msgctxt "#31726"
+msgid "Associating"
+msgstr "Relateren..."
+
+msgctxt "#31727"
+msgid "Discovering"
+msgstr "Ontdekken..."
+
+msgctxt "#31728"
+msgid "Authenticating"
+msgstr "Authentiseren..."
+
+msgctxt "#31729"
+msgid "Connection Status : "
+msgstr "Verbindingsstatus: "
+
+# Settings screen - Controller
+msgctxt "#31735"
+msgid "Controller"
+msgstr "Controller"
+
+# Settings screen - HDMI In
+msgctxt "#31760"
+msgid "HDMI in"
+msgstr "HDMI-in"
+
+msgctxt "#31761"
+msgid "Activate"
+msgstr "Activeren"
+
+msgctxt "#31762"
+msgid "Turn Off"
+msgstr "Uitzetten"
+
+msgctxt "#31763"
+msgid "Turn On"
+msgstr "Aanzetten"
+
+msgctxt "#31764"
+msgid "In order to activate HDMI In, plug in HDMI cable."
+msgstr "Sluit de HDMI-kabel aan om HDMI-in te activeren."
+
+msgctxt "#31766"
+msgid "To return to Alpha UI from HDMI In, select the Guide Menu."
+msgstr "Selecteer het menu Gids om vanaf HDMI-in naar Alpha UI terug te keren."
+
+# Confirm Dialog
+msgctxt "#31781"
+msgid "Yes"
+msgstr "Ja"
+
+msgctxt "#31782"
+msgid "No"
+msgstr "Nee"
+
+msgctxt "#31783"
+msgid "Cancel"
+msgstr "annuleren"
+
+msgctxt "#31784"
+msgid "Restart"
+msgstr "Opnieuw opstarten"
+
+msgctxt "#31785"
+msgid "OK"
+msgstr "Oké"
+
+# Help
+msgctxt "#31800"
+msgid "Hotkeys"
+msgstr "Sneltoetsen"
+
+msgctxt "#31810"
+msgid "Systems Menu"
+msgstr "Systeemmenu"
+
+msgctxt "#31811"
+msgid "Shifting Focus"
+msgstr "Veranderen van focus"
+
+msgctxt "#31812"
+msgid "Full Screen"
+msgstr "Volledig scherm"
+
+msgctxt "#31813"
+msgid "Controller Mouse"
+msgstr "Controller-muis"
+
+msgctxt "#31814"
+msgid "Guide"
+msgstr "Gids"
+
+msgctxt "#31815"
+msgid "Dpad Left"
+msgstr "Dpad Links"
+
+msgctxt "#31816"
+msgid "Dpad Right"
+msgstr "Dpad Rechts"
+
+msgctxt "#31817"
+msgid "Dpad Up"
+msgstr "Dpad Omhoog"
+
+msgctxt "#31818"
+msgid "L3"
+msgstr "L3"
+
+msgctxt "#31820"
+msgid "Hotkey Combination LT + LB + RT + RB + Guide button"
+msgstr "Sneltoetsencombinatie LT + LB + RT + RB + Gids-toets"
+
+msgctxt "#31821"
+msgid "Pressing LT + LB + RT + RB on the controller plus the Guide button will launch the Systems Menu."
+msgstr "Door het indrukken van LT + LB + RT + RB op de controller plus de Gids-toets wordt het systeemmenu gestart."
+
+msgctxt "#31822"
+msgid "Hotkey Combination LT + LB + RT + RB + Left or Right"
+msgstr "Sneltoetsencombinatie LT + LB + RT + RB + Links of Rechts"
+
+msgctxt "#31823"
+msgid "Shift window focus using Dpad Left or Dpad Right. This function can also be accessed via keyboard with Alt + Tab (Shift Right) or Shift + Alt + Tab (Shift Left)."
+msgstr "Shift venster focus met behulp van Dpad Links of Dpad Rechts.  Deze functie kan ook worden geactiveerd via het toetsenbord met Alt + Tab (Shift Rechts) of Shift + Alt + Tab (Shift Links)."
+
+msgctxt "#31824"
+msgid "Hotkey Combination LT + LB + RT + RB + Dpad Up"
+msgstr "Sneltoetsencombinatie LT + LB + RT + RB + Dpad Omhoog"
+
+msgctxt "#31825"
+msgid "This hot key will attempt to show the application you are currently using in Full Screen. It is the same as Alt+Enter and F11 on a keyboard. Not all applications will respond to this hot key."
+msgstr "Deze sneltoets probeert de toepassing te tonen die u momenteel op het volledige scherm gebruikt. De sneltoets werkt op dezelfde manier als Alt+Enter en F11 op een toetsenbord. Niet alle toepassingen reageren op deze sneltoets."
+
+msgctxt "#31826"
+msgid "Hotkey Combination LT + LB + RT + RB + L3"
+msgstr "Sneltoetsencombinatie LT + LB + RT + RB + L3"
+
+msgctxt "#31827"
+msgid "Hotkey Combination plus L3 pressed down, turns on the mouse driver. Pressing the Hotkey Combination again turns off the driver."
+msgstr "Sneltoetsencombinatie plus L3 ingedrukt, schakelt het  stuurprogramma van de muis in. Door nogmaals op de sneltoetsencombinatie te drukken , wordt het stuurprogramma uitgeschakeld."
+
+msgctxt "#31828"
+msgid "System software update failed. Shutdown console in order to begin software update."
+msgstr "De update van de systeemsoftware is mislukt. Sluit console af om de software-update te beginnen."
+
+msgctxt "#31829"
+msgid "New update available - shut down console to begin download"
+msgstr "Nieuwe update beschikbaar - sluit console af om met downloaden te beginnen."
+
+msgctxt "#31830"
+msgid "Close Application"
+msgstr "Sluit toepassing"
+
+msgctxt "#31831"
+msgid "Dpad Down"
+msgstr "Dpad omlaag"
+
+msgctxt "#31832"
+msgid "Hotkey Combination LT + LB + RT + RB + Dpad Down"
+msgstr "Sneltoetsencombinatie LT + LB + RT + RB + Dpad omlaag"
+
+msgctxt "#31833"
+msgid "This hot key will attempt to close the application you are currently using. It is the same as Alt+F4 and Alt+Q on a keyboard. Not all applications will respond to this hot key."
+msgstr "Deze sneltoets probeert de toepassing af te sluiten die u momenteel gebruikt. De sneltoets werkt op dezelfde manier als Alt+F4 en Alt+Q op een toetsenbord. Niet alle toepassingen reageren op deze sneltoets."
+
+# Miscellaneous
+msgctxt "#31840"
+msgid "Connect mouse to enable desktop mode"
+msgstr "Sluit de muis aan om de stand voor bureaublad in te schakelen."
+
+msgctxt "#31841"
+msgid "INITIALIZING STEAM"
+msgstr "BEZIG MET INITIALISEREN VAN STEAM"
+
+#END Alienware skin
+
 msgctxt "#31901"
 msgid "36 Hour Forecast"
 msgstr "36 Uurs Voorspelling"

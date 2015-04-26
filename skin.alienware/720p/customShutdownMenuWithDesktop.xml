@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <window id="4001">
-    <onload>XBMC.RunScript("special://skin\scripts\update_power_menu.py")</onload>
     <defaultcontrol always="true">9000</defaultcontrol>
     <controls>
         <include>CommonBackground</include>
@@ -18,7 +17,8 @@
             <control type="label">
                 <description>Power label</description>
                 <font>goodtime12</font>
-                <top>10</top>
+                <height>40</height>
+              <aligny>center</aligny>
                 <left>40</left>
                 <label>31604</label> <!-- POWER -->
             </control>

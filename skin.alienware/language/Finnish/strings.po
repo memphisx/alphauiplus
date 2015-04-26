@@ -536,6 +536,401 @@ msgctxt "#31511"
 msgid "Channel Options"
 msgstr "Kanavan valinnat"
 
+
+#START Alienware skin
+#Power menu
+
+msgctxt "#31600"
+msgid "WELCOME TO ALPHA UI"
+msgstr "TERVETULOA ALPHA UI:HIN"
+
+msgctxt "#31601"
+msgid "SHUT DOWN CONSOLE"
+msgstr "SAMMUTA KONSOLI"
+
+msgctxt "#31602"
+msgid "RESTART CONSOLE"
+msgstr "KÄYNNISTÄ KONSOLI UUDELLEEN"
+
+msgctxt "#31603"
+msgid "SLEEP"
+msgstr "LEPOTILA"
+
+# Home menu
+msgctxt "#31604"
+msgid "Power"
+msgstr "VIRTA"
+
+msgctxt "#31605"
+msgid "Launch[CR]Steam"
+msgstr "KÄYNNISTÄ[CR]STEAM"
+
+msgctxt "#31606"
+msgid "Settings"
+msgstr "ASETUKSET"
+
+msgctxt "#31607"
+msgid "GO TO DESKTOP"
+msgstr "SIIRRY TYÖPÖYDÄLLE"
+
+msgctxt "#31608"
+msgid "HELP"
+msgstr "OHJE"
+
+msgctxt "#31609"
+msgid "Launch System Menu at anytime by pressing LT + LB + RT + RB + Guide button."
+msgstr "Käynnistä järjestelmävalikko milloiin vain[CR]painamalla LT + LB + RT + RB + opaspainike."
+
+# Settings screen - Video
+msgctxt "#31610"
+msgid "Video"
+msgstr "Video"
+
+msgctxt "#31611"
+msgid "Display"
+msgstr "Näyttö"
+
+msgctxt "#31612"
+msgid "Scale to Screen"
+msgstr "Skaalaa näytön mukaan"
+
+msgctxt "#31613"
+msgid "Display Resolution"
+msgstr "Näytön tarkkuus"
+
+msgctxt "#31614"
+msgid "Refresh Rate"
+msgstr "Virkistystaajuus"
+
+msgctxt "#31615"
+msgid "For an optimal gaming experience, please adjust your television's picture setting to properly fit the Alpha's video output.\n"
+"\n"
+"To do this you will need to use your television's remote control."
+msgstr "Optimoidaksesi pelikokemuksen säädä television kuva-asetukset siten, että Alphan videokuva mahtuu näyttöön kunnolla.\n"
+"\n"
+"Tähän tarvitset television kaukosäädintä."
+
+msgctxt "#31616"
+msgid "Display Settings"
+msgstr "Näyttöasetukset"
+
+msgctxt "#31617"
+msgid "Do you want to keep this display settings?"
+msgstr "Haluatko säilyttää nämä näyttöasetukset?"
+
+msgctxt "#31618"
+msgid "Apply"
+msgstr "Käytä"
+
+msgctxt "#31619"
+msgid "Begin Scaling"
+msgstr "ALOITA SKAALAUS"
+
+msgctxt "#31620"
+msgid "On most televisions, you can access the scaling tool under Menu > Settings > Picture.\n\nFrequently this option called: scale, view mode, scan, aspect ratio, screen fit, or smart fit.\n\nThe goal is to ensure the tip of each triangle is in the very corner of your television's screen.\nFor specific instructions on screen scaling for your television, please consult your TV's manual."
+msgstr "Useimmissa televisioissa voit käyttää skaalaustyökalua kohdassa Valikko > setukset > Kuva.\n"
+"\n"
+"Tätä asetusta kutsutaan usein skaalaukseksi, näyttötilaksi, skannaukseksi, kuvasuhteeksi, näytön sovitukseksi tai älysovitukseksi.\n"
+"\n"
+"Tarkoitus on säätää asetukset siten, että kunkin kolmion kärki on aivan televisionäytön nurkassa.\n"
+"Tarkat ohjeet televisionäytön skaalauksesta on television käyttöopaassa."
+
+msgctxt "#31621"
+msgid "Confirm"
+msgstr "Vahvista"
+
+# Settings screen - Audio
+msgctxt "#31635"
+msgid "Audio"
+msgstr "Audio"
+
+msgctxt "#31636"
+msgid "Output"
+msgstr "Lähtö"
+
+msgctxt "#31637"
+msgid "Volume"
+msgstr "Äänenvoimakkuus"
+
+msgctxt "#31638"
+msgid "Source"
+msgstr "Lähde"
+
+msgctxt "#31639"
+msgid "Adjust"
+msgstr "Säädä"
+
+msgctxt "#31640"
+msgid "Audio output has been changed successfully. For changes to take effect you must restart Alpha."
+msgstr "Audiolähtö on vaihdettu. Alpha on käynnistettävä uudelleen, jotta muutokset astuvat voimaan."
+
+msgctxt "#31641"
+msgid "Unable to change audio setting. Please check audio cable is connected properly."
+msgstr "Audioasetuksia ei voi muuttaa. Tarkista, että audiokaapeli toimii kunnolla."
+
+# Settings screen - Backgrounds
+msgctxt "#31660"
+msgid "Backgrounds"
+msgstr "Taustakuvat"
+
+# Settings screen - Console
+msgctxt "#31685"
+msgid "Customization"
+msgstr "Mukautus"
+
+msgctxt "#31686"
+msgid "AlienFX"
+msgstr "AlienFX"
+
+msgctxt "#31687"
+msgid "Updates"
+msgstr "Päivitykset"
+
+msgctxt "#31688"
+msgid "Boot Options"
+msgstr "Käynnistysvalitsimet"
+
+# Settings screen - network
+msgctxt "#31710"
+msgid "Network"
+msgstr "Verkko"
+
+msgctxt "#31711"
+msgid "Wifi"
+msgstr "Wi-Fi"
+
+msgctxt "#31712"
+msgid "Information"
+msgstr "Tiedot"
+
+msgctxt "#31713"
+msgid "Choose a wireless network"
+msgstr "VALITSE LANGATON VERKKO"
+
+msgctxt "#31714"
+msgid "Enter network password for {0}"
+msgstr "Anna verkon salasana kohteelle {0}"
+
+msgctxt "#31715"
+msgid "Error"
+msgstr "Virhe"
+
+msgctxt "#31716"
+msgid "Unable to connect. Please check your password and try again."
+msgstr "Yhteyden muodostaminen ei onnistu. Tarkista verkon salasana ja yritä uudelleen."
+
+msgctxt "#31717"
+msgid "Disconnect Wifi Network"
+msgstr "Pura yhteys Wi-Fi-verkkoon"
+
+msgctxt "#31718"
+msgid "Do you want to disconnect {0} ?"
+msgstr "Haluatko purkaa yhteyden kohteeseen {0} ?"
+
+msgctxt "#31719"
+msgid "Unable to disconnect. Please try again."
+msgstr "Yhteyttä ei voitu purkaa. Yritä uudelleen."
+
+msgctxt "#31720"
+msgid "Network information"
+msgstr "VERKON TIEDOT"
+
+msgctxt "#31721"
+msgid "Not ready"
+msgstr "Ei valmis"
+
+msgctxt "#31722"
+msgid "Connected"
+msgstr "Yhdistetty"
+
+msgctxt "#31723"
+msgid "Ad hoc network formed"
+msgstr "Ad-hoc-verkko muodostettu"
+
+msgctxt "#31724"
+msgid "Disconnecting"
+msgstr "Yhteyttä puretaan"
+
+msgctxt "#31725"
+msgid "Disconnected"
+msgstr "Yhteys purettu"
+
+msgctxt "#31726"
+msgid "Associating"
+msgstr "Liitetään"
+
+msgctxt "#31727"
+msgid "Discovering"
+msgstr "Etsitään"
+
+msgctxt "#31728"
+msgid "Authenticating"
+msgstr "Todennetaan"
+
+msgctxt "#31729"
+msgid "Connection Status : "
+msgstr "Yhteystila: "
+
+# Settings screen - Controller
+msgctxt "#31735"
+msgid "Controller"
+msgstr "Ohjain"
+
+# Settings screen - HDMI In
+msgctxt "#31760"
+msgid "HDMI in"
+msgstr "HDMI in"
+
+msgctxt "#31761"
+msgid "Activate"
+msgstr "Aktivoi"
+
+msgctxt "#31762"
+msgid "Turn Off"
+msgstr "Kytke pois"
+
+msgctxt "#31763"
+msgid "Turn On"
+msgstr "Kytke päälle"
+
+msgctxt "#31764"
+msgid "In order to activate HDMI In, plug in HDMI cable."
+msgstr "Kytke HDMI-kaapeli aktivoidaksesi HDMI In -liitännän."
+
+msgctxt "#31766"
+msgid "To return to Alpha UI from HDMI In, select the Guide Menu."
+msgstr "Voit palata Alpha UI:hin HDMI:sta valitsemalla opasvalikko."
+
+# Confirm Dialog
+msgctxt "#31781"
+msgid "Yes"
+msgstr "Kyllä"
+
+msgctxt "#31782"
+msgid "No"
+msgstr "Ei"
+
+msgctxt "#31783"
+msgid "Cancel"
+msgstr "peruuta"
+
+msgctxt "#31784"
+msgid "Restart"
+msgstr "Käynnistä uudelleen"
+
+msgctxt "#31785"
+msgid "OK"
+msgstr "OK"
+
+# Help
+msgctxt "#31800"
+msgid "Hotkeys"
+msgstr "Pikanäppäimet"
+
+msgctxt "#31810"
+msgid "Systems Menu"
+msgstr "Järjestelmävalikko"
+
+msgctxt "#31811"
+msgid "Shifting Focus"
+msgstr "Siirretään kohdistusta"
+
+msgctxt "#31812"
+msgid "Full Screen"
+msgstr "Koko näyttö"
+
+msgctxt "#31813"
+msgid "Controller Mouse"
+msgstr "Ohjainhiiri"
+
+msgctxt "#31814"
+msgid "Guide"
+msgstr "Opas"
+
+msgctxt "#31815"
+msgid "Dpad Left"
+msgstr "Dpad[CR]vasemmalle"
+
+msgctxt "#31816"
+msgid "Dpad Right"
+msgstr "Dpad[CR]oikealle"
+
+msgctxt "#31817"
+msgid "Dpad Up"
+msgstr "Dpad ylös"
+
+msgctxt "#31818"
+msgid "L3"
+msgstr "L3"
+
+msgctxt "#31820"
+msgid "Hotkey Combination LT + LB + RT + RB + Guide button"
+msgstr "Pikanäppäinyhdistelmä LT + LB + RT + RB + opaspainike"
+
+msgctxt "#31821"
+msgid "Pressing LT + LB + RT + RB on the controller plus the Guide button will launch the Systems Menu."
+msgstr "Kun painat LT + LB + RT + RB ohjaimessa sekä opaspainiketta, järjestelmävalikko avautuu."
+
+msgctxt "#31822"
+msgid "Hotkey Combination LT + LB + RT + RB + Left or Right"
+msgstr "Pikanäppäinyhdistelmä LT + LB + RT + RB + vasen tai oikea"
+
+msgctxt "#31823"
+msgid "Shift window focus using Dpad Left or Dpad Right. This function can also be accessed via keyboard with Alt + Tab (Shift Right) or Shift + Alt + Tab (Shift Left)."
+msgstr "Muuta ikkunan kohdistusta käyttäen Dpad vasemmalle tai Dpad oikealle.  Tätä toimintoa voi käyttää vain näppäimistöltä painamalla Alt + Tab (oikea Shift) tai Shift + Alt + Tab (vasen Shift)."
+
+msgctxt "#31824"
+msgid "Hotkey Combination LT + LB + RT + RB + Dpad Up"
+msgstr "Pikanäppäinyhdistelmä LT + LB + RT + RB + Dpad ylös"
+
+msgctxt "#31825"
+msgid "This hot key will attempt to show the application you are currently using in Full Screen. It is the same as Alt+Enter and F11 on a keyboard. Not all applications will respond to this hot key."
+msgstr "Tämä pikanäppäin yrittää näyttää tällä hetkellä käyttämäsi sovelluksen koko näytössä. Se vastaa näppäinyhdistelmiä Alt+Enter ja F11. Kaikki sovellukset eivät reagoi tähän pikanäppäimeen."
+
+msgctxt "#31826"
+msgid "Hotkey Combination LT + LB + RT + RB + L3"
+msgstr "Pikanäppäinyhdistelmä LT + LB + RT + RB + L3"
+
+msgctxt "#31827"
+msgid "Hotkey Combination plus L3 pressed down, turns on the mouse driver. Pressing the Hotkey Combination again turns off the driver."
+msgstr "Pikanäppäinyhdistelmä ja L3 painettuna alas kytkee hiiriohjaimen päälle. Pikanäppäinyhdistelmän painaminen uudelleen poistaa ohjaimen käytöstä."
+
+msgctxt "#31828"
+msgid "System software update failed. Shutdown console in order to begin software update."
+msgstr "Järjestelmäohjelmiston päivitys epäonnistui. Sammuta konsoli aloittaaksesi ohjelmistopäivityksen."
+
+msgctxt "#31829"
+msgid "New update available - shut down console to begin download"
+msgstr "Uusi päivitys saatavilla - sammuta konsoli aloittaaksesi latauksen"
+
+msgctxt "#31830"
+msgid "Close Application"
+msgstr "Sulje sovellus"
+
+msgctxt "#31831"
+msgid "Dpad Down"
+msgstr "Dpad alas"
+
+msgctxt "#31832"
+msgid "Hotkey Combination LT + LB + RT + RB + Dpad Down"
+msgstr "Pikanäppäinyhdistelmä LT + LB + RT + RB + Dpad alas"
+
+msgctxt "#31833"
+msgid "This hot key will attempt to close the application you are currently using. It is the same as Alt+F4 and Alt+Q on a keyboard. Not all applications will respond to this hot key."
+msgstr "Tämä pikanäppäin yrittää sulkea tällä hetkellä käyttämäsi sovelluksen. Se vastaa näppäinyhdistelmiä Alt+F4 ja Alt+Q. Kaikki sovellukset eivät reagoi tähän pikanäppäimeen."
+
+# Miscellaneous
+msgctxt "#31840"
+msgid "Connect mouse to enable desktop mode"
+msgstr "Kytke hiiri ottaaksesi työpöytätilan käyttöön"
+
+msgctxt "#31841"
+msgid "INITIALIZING STEAM"
+msgstr "STEAM ALUSTETAAN"
+
+#END Alienware skin
+
+
 msgctxt "#31901"
 msgid "36 Hour Forecast"
 msgstr "36 tunnin ennuste"

@@ -18,9 +18,9 @@
             <control type="label">
                 <description>Power label</description>
                 <font>goodtime12</font>
-                <top>10</top>
-                <left>40</left>
-                <label>31604</label> <!-- POWER -->
+              <height>40</height>
+              <aligny>center</aligny>
+              <label>31604</label> <!-- POWER -->
             </control>
 
             <control type="image">
