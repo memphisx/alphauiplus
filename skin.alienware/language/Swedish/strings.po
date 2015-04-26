@@ -536,6 +536,401 @@ msgctxt "#31511"
 msgid "Channel Options"
 msgstr "Kanalalternativ"
 
+
+#START Alienware skin
+#Power menu
+
+msgctxt "#31600"
+msgid "WELCOME TO ALPHA UI"
+msgstr "VÄLKOMMEN TILL ALPHA UI"
+
+msgctxt "#31601"
+msgid "SHUT DOWN CONSOLE"
+msgstr "STÄNG AV KONSOLEN"
+
+msgctxt "#31602"
+msgid "RESTART CONSOLE"
+msgstr "STARTA OM KONSOLEN"
+
+msgctxt "#31603"
+msgid "SLEEP"
+msgstr "VILOLÄGE"
+
+# Home menu
+msgctxt "#31604"
+msgid "Power"
+msgstr "STRÖM"
+
+msgctxt "#31605"
+msgid "Launch[CR]Steam"
+msgstr "STARTA[CR]STEAM"
+
+msgctxt "#31606"
+msgid "Settings"
+msgstr "INSTÄLLNINGAR"
+
+msgctxt "#31607"
+msgid "GO TO DESKTOP"
+msgstr "GÅ TILL SKRIVBORD"
+
+msgctxt "#31608"
+msgid "HELP"
+msgstr "HJÄLP"
+
+msgctxt "#31609"
+msgid "Launch System Menu at anytime by pressing LT + LB + RT + RB + Guide button."
+msgstr "Starta Systemmenyn när som helst genom[CR]att trycka på LT + LB + RT + RB + Guide knappen."
+
+# Settings screen - Video
+msgctxt "#31610"
+msgid "Video"
+msgstr "Video"
+
+msgctxt "#31611"
+msgid "Display"
+msgstr "Bildskärm"
+
+msgctxt "#31612"
+msgid "Scale to Screen"
+msgstr "Passa till skärm"
+
+msgctxt "#31613"
+msgid "Display Resolution"
+msgstr "Skärmupplösning"
+
+msgctxt "#31614"
+msgid "Refresh Rate"
+msgstr "Uppdateringsintervall"
+
+msgctxt "#31615"
+msgid "For an optimal gaming experience, please adjust your television's picture setting to properly fit the Alpha's video output.\n"
+"\n"
+"To do this you will need to use your television's remote control."
+msgstr "\"För en optimal spelupplevelse, justera bildinställningarna för tv-apparaten så att de stämmer överens med Alpha-videoutsignalen.\n"
+"\n"
+"Det gör du med fjärrkontrollen för tv-apparaten."
+
+msgctxt "#31616"
+msgid "Display Settings"
+msgstr "Bildskärmsinställningar"
+
+msgctxt "#31617"
+msgid "Do you want to keep this display settings?"
+msgstr "Vill du behålla bildskärmsinställningarna?"
+
+msgctxt "#31618"
+msgid "Apply"
+msgstr "Tillämpa"
+
+msgctxt "#31619"
+msgid "Begin Scaling"
+msgstr "BÖRJA SKALNING"
+
+msgctxt "#31620"
+msgid "On most televisions, you can access the scaling tool under Menu > Settings > Picture.\n\nFrequently this option called: scale, view mode, scan, aspect ratio, screen fit, or smart fit.\n\nThe goal is to ensure the tip of each triangle is in the very corner of your television's screen.\nFor specific instructions on screen scaling for your television, please consult your TV's manual."
+msgstr "På de flesta tv-apparater kan du öppna ett skalningsverktyg under Meny > Inställningar > Bild.\n"
+"\n"
+"Detta alternativ kallas oftast för skala, visningsläge, skan, bildförhållande, skärmanpassning eller smart passning.\n"
+"\n"
+"Målet är att se till att spetsen på varje triangel är i själva hörnet på tv-skärmen.\n"
+"Specifika anvisningar för skärmskalning för din tv-apparat finns i handboken för tv-apparaten\"."
+
+msgctxt "#31621"
+msgid "Confirm"
+msgstr "Bekräfta"
+
+# Settings screen - Audio
+msgctxt "#31635"
+msgid "Audio"
+msgstr "Ljud"
+
+msgctxt "#31636"
+msgid "Output"
+msgstr "Utgång"
+
+msgctxt "#31637"
+msgid "Volume"
+msgstr "Volym"
+
+msgctxt "#31638"
+msgid "Source"
+msgstr "Källa"
+
+msgctxt "#31639"
+msgid "Adjust"
+msgstr "Justera"
+
+msgctxt "#31640"
+msgid "Audio output has been changed successfully. For changes to take effect you must restart Alpha."
+msgstr "Ljudutgång har ändrats. Du måste starta om Alpha för att ändringarna ska träda ikraft."
+
+msgctxt "#31641"
+msgid "Unable to change audio setting. Please check audio cable is connected properly."
+msgstr "Kan inte ändra ljudinställningen. Kontrollera att ljudkabeln är ansluten på rätt sätt."
+
+# Settings screen - Backgrounds
+msgctxt "#31660"
+msgid "Backgrounds"
+msgstr "Bakgrunder"
+
+# Settings screen - Console
+msgctxt "#31685"
+msgid "Customization"
+msgstr "Anpassning"
+
+msgctxt "#31686"
+msgid "AlienFX"
+msgstr "AlienFX"
+
+msgctxt "#31687"
+msgid "Updates"
+msgstr "Uppdateringar"
+
+msgctxt "#31688"
+msgid "Boot Options"
+msgstr "Startalternativ"
+
+# Settings screen - network
+msgctxt "#31710"
+msgid "Network"
+msgstr "Nätverk"
+
+msgctxt "#31711"
+msgid "Wifi"
+msgstr "Wifi"
+
+msgctxt "#31712"
+msgid "Information"
+msgstr "Information"
+
+msgctxt "#31713"
+msgid "Choose a wireless network"
+msgstr "VÄLJ ETT TRÅDLÖST NÄTVERK"
+
+msgctxt "#31714"
+msgid "Enter network password for {0}"
+msgstr "Ange lösenordet för nätverket {0}"
+
+msgctxt "#31715"
+msgid "Error"
+msgstr "Fel"
+
+msgctxt "#31716"
+msgid "Unable to connect. Please check your password and try again."
+msgstr "Kan inte anslutas. Kontrollera ditt lösenord och försök igen."
+
+msgctxt "#31717"
+msgid "Disconnect Wifi Network"
+msgstr "Koppla bort Wifi-nätverket"
+
+msgctxt "#31718"
+msgid "Do you want to disconnect {0} ?"
+msgstr "Vill du koppla bort {0} ?"
+
+msgctxt "#31719"
+msgid "Unable to disconnect. Please try again."
+msgstr "Kan inte koppla bort. Försök igen."
+
+msgctxt "#31720"
+msgid "Network information"
+msgstr "NÄTVERKSINFORMATION"
+
+msgctxt "#31721"
+msgid "Not ready"
+msgstr "Inte redo"
+
+msgctxt "#31722"
+msgid "Connected"
+msgstr "Ansluten"
+
+msgctxt "#31723"
+msgid "Ad hoc network formed"
+msgstr "Ad hoc-nätverk skapat"
+
+msgctxt "#31724"
+msgid "Disconnecting"
+msgstr "Kopplar bort"
+
+msgctxt "#31725"
+msgid "Disconnected"
+msgstr "Bortkopplad"
+
+msgctxt "#31726"
+msgid "Associating"
+msgstr "Associerar"
+
+msgctxt "#31727"
+msgid "Discovering"
+msgstr "Upptäcker"
+
+msgctxt "#31728"
+msgid "Authenticating"
+msgstr "Autentiserar"
+
+msgctxt "#31729"
+msgid "Connection Status : "
+msgstr "Anslutningsstatus: "
+
+# Settings screen - Controller
+msgctxt "#31735"
+msgid "Controller"
+msgstr "Styrenhet"
+
+# Settings screen - HDMI In
+msgctxt "#31760"
+msgid "HDMI in"
+msgstr "HDMI in"
+
+msgctxt "#31761"
+msgid "Activate"
+msgstr "Aktivera"
+
+msgctxt "#31762"
+msgid "Turn Off"
+msgstr "Stäng av"
+
+msgctxt "#31763"
+msgid "Turn On"
+msgstr "Slå på"
+
+msgctxt "#31764"
+msgid "In order to activate HDMI In, plug in HDMI cable."
+msgstr "Anslut HDMI-kabel för att aktivera HDMI In."
+
+msgctxt "#31766"
+msgid "To return to Alpha UI from HDMI In, select the Guide Menu."
+msgstr "Välj Guide-menyn för att återvända till Alpha-användargränssnittet från HDMI In."
+
+# Confirm Dialog
+msgctxt "#31781"
+msgid "Yes"
+msgstr "Ja"
+
+msgctxt "#31782"
+msgid "No"
+msgstr "Nej"
+
+msgctxt "#31783"
+msgid "Cancel"
+msgstr "avbryt"
+
+msgctxt "#31784"
+msgid "Restart"
+msgstr "Starta om"
+
+msgctxt "#31785"
+msgid "OK"
+msgstr "OK"
+
+# Help
+msgctxt "#31800"
+msgid "Hotkeys"
+msgstr "Snabbtangenter"
+
+msgctxt "#31810"
+msgid "Systems Menu"
+msgstr "System-meny"
+
+msgctxt "#31811"
+msgid "Shifting Focus"
+msgstr "Skifta fokus"
+
+msgctxt "#31812"
+msgid "Full Screen"
+msgstr "Helskärm"
+
+msgctxt "#31813"
+msgid "Controller Mouse"
+msgstr "Styrenhetsmus"
+
+msgctxt "#31814"
+msgid "Guide"
+msgstr "Guide"
+
+msgctxt "#31815"
+msgid "Dpad Left"
+msgstr "Dpad vänster"
+
+msgctxt "#31816"
+msgid "Dpad Right"
+msgstr "Dpad höger"
+
+msgctxt "#31817"
+msgid "Dpad Up"
+msgstr "Dpad upp"
+
+msgctxt "#31818"
+msgid "L3"
+msgstr "L3"
+
+msgctxt "#31820"
+msgid "Hotkey Combination LT + LB + RT + RB + Guide button"
+msgstr "Snabbtangentkombination LT + LB + RT + RB + Guide-knappen"
+
+msgctxt "#31821"
+msgid "Pressing LT + LB + RT + RB on the controller plus the Guide button will launch the Systems Menu."
+msgstr "Om du trycker på LT + LB + RT + RB på styrenheten plus Guide-knappen startas System-menyn."
+
+msgctxt "#31822"
+msgid "Hotkey Combination LT + LB + RT + RB + Left or Right"
+msgstr "Snabbtangentkombination LT + LB + RT + RB + Vänster eller Höger"
+
+msgctxt "#31823"
+msgid "Shift window focus using Dpad Left or Dpad Right. This function can also be accessed via keyboard with Alt + Tab (Shift Right) or Shift + Alt + Tab (Shift Left)."
+msgstr "Skifta fokus med användning av Dpad Vänster eller Dpad Höger.  Denna funktion kan även kommas åt via tangentbordet med Alt + Tab (Shift Höger) eller Shift + Alt + Tab (Shift Vänster)."
+
+msgctxt "#31824"
+msgid "Hotkey Combination LT + LB + RT + RB + Dpad Up"
+msgstr "Snabbtangentkombination LT + LB + RT + RB + Dpad Upp"
+
+msgctxt "#31825"
+msgid "This hot key will attempt to show the application you are currently using in Full Screen. It is the same as Alt+Enter and F11 on a keyboard. Not all applications will respond to this hot key."
+msgstr "Den här snabbtangenten kommer att försöka visa programmet du använder just nu i helskärmsläge. Det är samma som Alt+Enter och F11 på ett tangentbord. Inte alla program svarar på den här snabbtangenten."
+
+msgctxt "#31826"
+msgid "Hotkey Combination LT + LB + RT + RB + L3"
+msgstr "Snabbtangentkombination LT + LB + RT + RB + L3"
+
+msgctxt "#31827"
+msgid "Hotkey Combination plus L3 pressed down, turns on the mouse driver. Pressing the Hotkey Combination again turns off the driver."
+msgstr "Snabbtangentkombination plus L3 nedtryckt, slår på musdrivrutinen. Om snabbtangentkombinationen trycks in igen stängs drivrutinen av igen."
+
+msgctxt "#31828"
+msgid "System software update failed. Shutdown console in order to begin software update."
+msgstr "Systemprogramuppdateringen misslyckades. Stäng av konsolen för att påbörja programuppdateringen."
+
+msgctxt "#31829"
+msgid "New update available - shut down console to begin download"
+msgstr "Ny uppdatering tillgänglig - stäng av konsolen för att påbörja nedladdningen"
+
+msgctxt "#31830"
+msgid "Close Application"
+msgstr "Stäng program"
+
+msgctxt "#31831"
+msgid "Dpad Down"
+msgstr "Dpad Ner"
+
+msgctxt "#31832"
+msgid "Hotkey Combination LT + LB + RT + RB + Dpad Down"
+msgstr "Snabbtangentskombination LT + LB + RT + RB + Dpad Ner"
+
+msgctxt "#31833"
+msgid "This hot key will attempt to close the application you are currently using. It is the same as Alt+F4 and Alt+Q on a keyboard. Not all applications will respond to this hot key."
+msgstr "Den här snabbtangenten kommer att försöka stänga programmet du använder just nu. Det är samma som Alt+F4 och Alt+Q på ett tangentbord. Inte alla program svarar på den här snabbtangenten."
+
+# Miscellaneous
+msgctxt "#31840"
+msgid "Connect mouse to enable desktop mode"
+msgstr "Anslut musen för att aktivera skrivbordsläget"
+
+msgctxt "#31841"
+msgid "INITIALIZING STEAM"
+msgstr "INITIERAR STEAM"
+
+#END Alienware skin
+
+
 msgctxt "#31901"
 msgid "36 Hour Forecast"
 msgstr "36-timmarsprognos"

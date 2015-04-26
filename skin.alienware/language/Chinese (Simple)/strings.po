@@ -536,6 +536,399 @@ msgctxt "#31511"
 msgid "Channel Options"
 msgstr "频道选项"
 
+
+#START Alienware skin
+#Power menu
+
+msgctxt "#31600"
+msgid "WELCOME TO ALPHA UI"
+msgstr "欢迎使用 ALPHA UI"
+
+msgctxt "#31601"
+msgid "SHUT DOWN CONSOLE"
+msgstr "关闭控制台"
+
+msgctxt "#31602"
+msgid "RESTART CONSOLE"
+msgstr "重新启动控制台"
+
+msgctxt "#31603"
+msgid "SLEEP"
+msgstr "睡眠"
+
+# Home menu
+msgctxt "#31604"
+msgid "Power"
+msgstr "电源"
+
+msgctxt "#31605"
+msgid "Launch[CR]Steam"
+msgstr "启动[CR]Steam"
+
+msgctxt "#31606"
+msgid "Settings"
+msgstr "设置"
+
+msgctxt "#31607"
+msgid "GO TO DESKTOP"
+msgstr "进入桌面"
+
+msgctxt "#31608"
+msgid "HELP"
+msgstr "帮助"
+
+msgctxt "#31609"
+msgid "Launch System Menu at anytime by pressing LT + LB + RT + RB + Guide button."
+msgstr "随时 按下 LT + LB + RT + RB + 向导按钮可启动“系统菜单”。"
+
+# Settings screen - Video
+msgctxt "#31610"
+msgid "Video"
+msgstr "视频"
+
+msgctxt "#31611"
+msgid "Display"
+msgstr "显示"
+
+msgctxt "#31612"
+msgid "Scale to Screen"
+msgstr "缩放至屏幕大小"
+
+msgctxt "#31613"
+msgid "Display Resolution"
+msgstr "显示分辨率"
+
+msgctxt "#31614"
+msgid "Refresh Rate"
+msgstr "刷新率"
+
+msgctxt "#31615"
+msgid "For an optimal gaming experience, please adjust your television's picture setting to properly fit the Alpha's video output.\n\nTo do this you will need to use your television's remote control."
+msgstr "为获得最佳的游戏体验，请调整电视的图像设置，以正确匹配 Alpha 的视频输出。\n"
+"\n"
+"完成此操作需要使用电视的遥控。"
+
+msgctxt "#31616"
+msgid "Display Settings"
+msgstr "显示设置"
+
+msgctxt "#31617"
+msgid "Do you want to keep this display settings?"
+msgstr "是否要保留此显示设置？"
+
+msgctxt "#31618"
+msgid "Apply"
+msgstr "应用"
+
+msgctxt "#31619"
+msgid "Begin Scaling"
+msgstr "开始缩放"
+
+msgctxt "#31620"
+msgid "On most televisions, you can access the scaling tool under Menu > Settings > Picture.\n\nFrequently this option called: scale, view mode, scan, aspect ratio, screen fit, or smart fit.\n\nThe goal is to ensure the tip of each triangle is in the very corner of your television's screen.\nFor specific instructions on screen scaling for your television, please consult your TV's manual."
+msgstr "大部分电视都可在“菜单”>“设置”>“图片”下访问缩放工具。\n"
+"\n"
+"通常该选项称为比例、查看模式、扫描、宽高比、屏幕自适应或智能适应。\n"
+"\n"
+"目标是确保每个三角形的顶端均位于电视屏幕的四角。\n"
+"获取电视屏幕比例的特定说明，请参阅电视使用说明。"
+
+msgctxt "#31621"
+msgid "Confirm"
+msgstr "确认"
+
+# Settings screen - Audio
+msgctxt "#31635"
+msgid "Audio"
+msgstr "音频"
+
+msgctxt "#31636"
+msgid "Output"
+msgstr "输出"
+
+msgctxt "#31637"
+msgid "Volume"
+msgstr "音量"
+
+msgctxt "#31638"
+msgid "Source"
+msgstr "来源"
+
+msgctxt "#31639"
+msgid "Adjust"
+msgstr "调整"
+
+msgctxt "#31640"
+msgid "Audio output has been changed successfully. For changes to take effect you must restart Alpha."
+msgstr "音频输出已成功更改。必须重新启动 Alpha，更改才能生效。"
+
+msgctxt "#31641"
+msgid "Unable to change audio setting. Please check audio cable is connected properly."
+msgstr "无法更改音频设置。请检查音频线缆连接是否正确。"
+
+# Settings screen - Backgrounds
+msgctxt "#31660"
+msgid "Backgrounds"
+msgstr "背景"
+
+# Settings screen - Console
+msgctxt "#31685"
+msgid "Customization"
+msgstr "定制"
+
+msgctxt "#31686"
+msgid "AlienFX"
+msgstr "AlienFX"
+
+msgctxt "#31687"
+msgid "Updates"
+msgstr "更新"
+
+msgctxt "#31688"
+msgid "Boot Options"
+msgstr "启动选项"
+
+# Settings screen - network
+msgctxt "#31710"
+msgid "Network"
+msgstr "网络"
+
+msgctxt "#31711"
+msgid "Wifi"
+msgstr "Wifi"
+
+msgctxt "#31712"
+msgid "Information"
+msgstr "信息"
+
+msgctxt "#31713"
+msgid "Choose a wireless network"
+msgstr "选择无线网络"
+
+msgctxt "#31714"
+msgid "Enter network password for {0}"
+msgstr "输入 {0} 的网络密码"
+
+msgctxt "#31715"
+msgid "Error"
+msgstr "错误"
+
+msgctxt "#31716"
+msgid "Unable to connect. Please check your password and try again."
+msgstr "无法连接。请检查密码并重试。"
+
+msgctxt "#31717"
+msgid "Disconnect Wifi Network"
+msgstr "断开 Wifi 网络连接"
+
+msgctxt "#31718"
+msgid "Do you want to disconnect {0} ?"
+msgstr "是否要断开 {0} 的连接？"
+
+msgctxt "#31719"
+msgid "Unable to disconnect. Please try again."
+msgstr "无法断开连接。请重试。"
+
+msgctxt "#31720"
+msgid "Network information"
+msgstr "网络信息"
+
+msgctxt "#31721"
+msgid "Not ready"
+msgstr "未准备就绪"
+
+msgctxt "#31722"
+msgid "Connected"
+msgstr "已连接"
+
+msgctxt "#31723"
+msgid "Ad hoc network formed"
+msgstr "已形成 Ad hoc 网络"
+
+msgctxt "#31724"
+msgid "Disconnecting"
+msgstr "正在断开连接"
+
+msgctxt "#31725"
+msgid "Disconnected"
+msgstr "已断开连接"
+
+msgctxt "#31726"
+msgid "Associating"
+msgstr "正在关联"
+
+msgctxt "#31727"
+msgid "Discovering"
+msgstr "正在查找"
+
+msgctxt "#31728"
+msgid "Authenticating"
+msgstr "正在授权"
+
+msgctxt "#31729"
+msgid "Connection Status : "
+msgstr "连接状态： "
+
+# Settings screen - Controller
+msgctxt "#31735"
+msgid "Controller"
+msgstr "控制器"
+
+# Settings screen - HDMI In
+msgctxt "#31760"
+msgid "HDMI in"
+msgstr "HDMI 输入"
+
+msgctxt "#31761"
+msgid "Activate"
+msgstr "激活"
+
+msgctxt "#31762"
+msgid "Turn Off"
+msgstr "关闭"
+
+msgctxt "#31763"
+msgid "Turn On"
+msgstr "开启"
+
+msgctxt "#31764"
+msgid "In order to activate HDMI In, plug in HDMI cable."
+msgstr "要激活 HDMI 输入，请插入 HDMI 线缆。"
+
+msgctxt "#31766"
+msgid "To return to Alpha UI from HDMI In, select the Guide Menu."
+msgstr "要从 HDMI 输入恢复至 Alpha UI，请选择“向导菜单”。"
+
+# Confirm Dialog
+msgctxt "#31781"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "#31782"
+msgid "No"
+msgstr "否"
+
+msgctxt "#31783"
+msgid "Cancel"
+msgstr "取消"
+
+msgctxt "#31784"
+msgid "Restart"
+msgstr "重新启动"
+
+msgctxt "#31785"
+msgid "OK"
+msgstr "确定"
+
+# Help
+msgctxt "#31800"
+msgid "Hotkeys"
+msgstr "热键"
+
+msgctxt "#31810"
+msgid "Systems Menu"
+msgstr "系统菜单"
+
+msgctxt "#31811"
+msgid "Shifting Focus"
+msgstr "转移焦点"
+
+msgctxt "#31812"
+msgid "Full Screen"
+msgstr "全屏幕"
+
+msgctxt "#31813"
+msgid "Controller Mouse"
+msgstr "控制器鼠标"
+
+msgctxt "#31814"
+msgid "Guide"
+msgstr "向导"
+
+msgctxt "#31815"
+msgid "Dpad Left"
+msgstr "Dpad 左"
+
+msgctxt "#31816"
+msgid "Dpad Right"
+msgstr "Dpad 右"
+
+msgctxt "#31817"
+msgid "Dpad Up"
+msgstr "Dpad 上"
+
+msgctxt "#31818"
+msgid "L3"
+msgstr "L3"
+
+msgctxt "#31820"
+msgid "Hotkey Combination LT + LB + RT + RB + Guide button"
+msgstr "热键组合 LT + LB + RT + RB + 向导按钮"
+
+msgctxt "#31821"
+msgid "Pressing LT + LB + RT + RB on the controller plus the Guide button will launch the Systems Menu."
+msgstr "按下控制器上的 LT + LB + RT + RB 以及“向导”按钮 将启动“系统菜单”。"
+
+msgctxt "#31822"
+msgid "Hotkey Combination LT + LB + RT + RB + Left or Right"
+msgstr "热键组合 LT + LB + RT + RB + 左或右"
+
+msgctxt "#31823"
+msgid "Shift window focus using Dpad Left or Dpad Right. This function can also be accessed via keyboard with Alt + Tab (Shift Right) or Shift + Alt + Tab (Shift Left)."
+msgstr "使用 Dpad 左或 Dpad 右转移窗口焦点。也可使用键盘的 Alt + Tab（右移） 或 Shift + Alt + Tab（左移）使用此功能。 "
+
+msgctxt "#31824"
+msgid "Hotkey Combination LT + LB + RT + RB + Dpad Up"
+msgstr "热键组合 LT + LB + RT + RB + Dpad 上"
+
+msgctxt "#31825"
+msgid "This hot key will attempt to show the application you are currently using in Full Screen. It is the same as Alt+Enter and F11 on a keyboard. Not all applications will respond to this hot key."
+msgstr "此热键将尝试以全屏模式显示您正在使用的应用程序。它与键盘上的 Alt+Enter 和 F11 作用相同。并不是所有应用程序都会对此热键有响应。"
+
+msgctxt "#31826"
+msgid "Hotkey Combination LT + LB + RT + RB + L3"
+msgstr "热键组合 LT + LB + RT + RB + L3"
+
+msgctxt "#31827"
+msgid "Hotkey Combination plus L3 pressed down, turns on the mouse driver. Pressing the Hotkey Combination again turns off the driver."
+msgstr "热键组合并按下 L3 可启用 鼠标驱动程序。再次按下热键组合可关闭 驱动程序。"
+
+msgctxt "#31828"
+msgid "System software update failed. Shutdown console in order to begin software update."
+msgstr "系统软件更新失败。关闭控制台 以开始软件更新。"
+
+msgctxt "#31829"
+msgid "New update available - shut down console to begin download"
+msgstr "有新更新可用 — 关闭控制台以开始下载"
+
+msgctxt "#31830"
+msgid "Close Application"
+msgstr "关闭应用程序"
+
+msgctxt "#31831"
+msgid "Dpad Down"
+msgstr "向下键"
+
+msgctxt "#31832"
+msgid "Hotkey Combination LT + LB + RT + RB + Dpad Down"
+msgstr "热键组合 LT + LB + RT + RB + 向下键"
+
+msgctxt "#31833"
+msgid "This hot key will attempt to close the application you are currently using. It is the same as Alt+F4 and Alt+Q on a keyboard. Not all applications will respond to this hot key."
+msgstr "此热键将尝试关闭您正在使用的应用程序。它与键盘上的 Alt+F4 和 Alt+Q 作用相同。并不是所有应用程序都会对此热键有响应。"
+
+# Miscellaneous
+msgctxt "#31840"
+msgid "Connect mouse to enable desktop mode"
+msgstr "连接鼠标以启用桌面模式"
+
+msgctxt "#31841"
+msgid "INITIALIZING STEAM"
+msgstr "正在初始化 STEAM"
+
+#END Alienware skin
+
+
 msgctxt "#31901"
 msgid "36 Hour Forecast"
 msgstr "36小时预报"

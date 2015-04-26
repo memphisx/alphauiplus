@@ -622,7 +622,7 @@ msgstr ""
 
 msgctxt "#31600"
 msgid "WELCOME TO ALPHA UI"
-msgstr ""
+msgstr "eb-GB-WELCOME TO ALPHA UI"
 
 
 msgctxt "#31601"
@@ -641,15 +641,15 @@ msgstr ""
 
 msgctxt "#31604"
 msgid "Power"
-msgstr ""
+msgstr "POWER"
 
 msgctxt "#31605"
 msgid "Launch[CR]Steam"
-msgstr ""
+msgstr "LAUNCH[CR]STEAM"
 
 msgctxt "#31606"
 msgid "Settings"
-msgstr ""
+msgstr "SETTINGS"
 
 msgctxt "#31607"
 msgid "GO TO DESKTOP"
@@ -660,7 +660,7 @@ msgid "HELP"
 msgstr ""
 
 msgctxt "#31609"
-msgid "Launch System Menu at anytime by[CR]pressing LT + LB + RT + RB + Guide button."
+msgid "Launch System Menu at anytime by pressing LT + LB + RT + RB + Guide button."
 msgstr ""
 
 
@@ -703,10 +703,10 @@ msgstr ""
 
 msgctxt "#31619"
 msgid "Begin Scaling"
-msgstr ""
+msgstr "BEGIN SCALING"
 
 msgctxt "#31620"
-msgid "On most televisions, you can access the scaling tool under Menu > Settings > Picture.\n\nFrequently this option called: scale, view mode, scan, aspect ration, screen fit, or smart fit.\n\nThe goal is to ensure the tip of each triangle is in the very corner of your elevision's screen.\nFor specific instructions on screen scaling for your television, plese consult your TV's manual."
+msgid "On most televisions, you can access the scaling tool under Menu > Settings > Picture.\n\nFrequently this option called: scale, view mode, scan, aspect ratio, screen fit, or smart fit.\n\nThe goal is to ensure the tip of each triangle is in the very corner of your television's screen.\nFor specific instructions on screen scaling for your television, please consult your TV's manual."
 msgstr ""
 
 msgctxt "#31621"
@@ -781,7 +781,7 @@ msgstr ""
 
 msgctxt "#31713"
 msgid "Choose a wireless network"
-msgstr ""
+msgstr "CHOOSE A WIRELESS NETWORK"
 
 msgctxt "#31714"
 msgid "Enter network password for {0}"
@@ -809,7 +809,7 @@ msgstr ""
 
 msgctxt "#31720"
 msgid "Network information"
-msgstr ""
+msgstr "NETWORK INFORMATION"
 
 msgctxt "#31721"
 msgid "Not ready"
@@ -942,43 +942,59 @@ msgid "L3"
 msgstr ""
 
 msgctxt "#31820"
-msgid "Hotkey Combination [CR] LT + LB + RT + RB + Guide button"
+msgid "Hotkey Combination LT + LB + RT + RB + Guide button"
 msgstr ""
 
 msgctxt "#31821"
-msgid "Pressing LT + LB + RT + RB on the controller plus the Guide button [CR]will launch the Systems Menu."
+msgid "Pressing LT + LB + RT + RB on the controller plus the Guide button will launch the Systems Menu."
 msgstr ""
 
 msgctxt "#31822"
-msgid "Hotkey Combination [CR] LT + LB + RT + RB + Left or Right"
+msgid "Hotkey Combination LT + LB + RT + RB + Left or Right"
 msgstr ""
 
 msgctxt "#31823"
-msgid "Shift window focus using Dpad Left or Dpad Right.  This function [CR]can also be accessed via keyboard with Alt + Tab (Shift Right) [CR] or Shift + Alt + Tab (Shift Left)."
+msgid "Shift window focus using Dpad Left or Dpad Right. This function can also be accessed via keyboard with Alt + Tab (Shift Right) or Shift + Alt + Tab (Shift Left)."
 msgstr ""
 
 msgctxt "#31824"
-msgid "Hotkey Combination [CR]LT + LB + RT + RB + Dpad Up"
+msgid "Hotkey Combination LT + LB + RT + RB + Dpad Up"
 msgstr ""
 
 msgctxt "#31825"
-msgid "Hotkey Combination plus Dpad Up enables full screen mode. [CR]This function can also be accessed via keyboard with Alt + Enter."
+msgid "This hot key will attempt to show the application you are currently using in Full Screen. It is the same as Alt+Enter and F11 on a keyboard. Not all applications will respond to this hot key."
 msgstr ""
 
 msgctxt "#31826"
-msgid "Hotkey Combination [CR]LT + LB + RT + RB + L3"
+msgid "Hotkey Combination LT + LB + RT + RB + L3"
 msgstr ""
 
 msgctxt "#31827"
-msgid "Hotkey Combination plus L3 pressed down, turns on the[CR]mouse driver. Pressing the Hotkey Combination again turns off[CR]the driver."
+msgid "Hotkey Combination plus L3 pressed down, turns on the mouse driver. Pressing the Hotkey Combination again turns off the driver."
 msgstr ""
 
 msgctxt "#31828"
-msgid "System software update failed. Shutdown console[CR] in order to begin software update."
+msgid "System software update failed. Shutdown console in order to begin software update."
 msgstr ""
 
 msgctxt "#31829"
 msgid "New update available - shut down console to begin download"
+msgstr ""
+
+msgctxt "#31830"
+msgid "Close Application"
+msgstr ""
+
+msgctxt "#31831"
+msgid "Dpad Down"
+msgstr ""
+
+msgctxt "#31832"
+msgid "Hotkey Combination LT + LB + RT + RB + Dpad Down"
+msgstr ""
+
+msgctxt "#31833"
+msgid "This hot key will attempt to close the application you are currently using. It is the same as Alt+F4 and Alt+Q on a keyboard. Not all applications will respond to this hot key."
 msgstr ""
 
 

@@ -200,12 +200,13 @@
                   <control type="label">
                     <description>Display Resolution</description>
                     <left>20</left>
-                    <width>280</width>
+                    <width>200</width>
                     <height>45</height>
                     <align>left</align>
                     <aligny>center</aligny>
                     <textcolor>white</textcolor>
                     <shadowcolor>black</shadowcolor>
+                    <scroll>true</scroll>
                     <label>31613</label>
                   </control>
                   <control type="button" id="9014">
@@ -265,7 +266,7 @@
                   </control>
                   <control type="button" id="9026">
                     <left>250</left>
-                    <width>145</width>
+                    <width>150</width>
                     <height>45</height>
                     <texturefocus>special://skin/media/alienware/blank.png</texturefocus>
                     <texturenofocus>special://skin/media/alienware/blank.png</texturenofocus>
@@ -309,6 +310,7 @@
                     <aligny>center</aligny>
                     <textcolor>white</textcolor>
                     <shadowcolor>black</shadowcolor>
+                    <scroll>true</scroll>
                     <label>31614</label>
                   </control>
                   <control type="button" id="9019">
@@ -368,7 +370,7 @@
                   </control>
                   <control type="button" id="9028">
                     <left>250</left>
-                    <width>145</width>
+                    <width>150</width>
                     <height>45</height>
                     <texturefocus>special://skin/media/alienware/blank.png</texturefocus>
                     <texturenofocus>special://skin/media/alienware/blank.png</texturenofocus>
@@ -426,9 +428,9 @@
                 </control>
                 <control type="button" id="9029">
                   <description>Begin Scaling Button</description>
-                  <top>150</top>
+                  <top>170</top>
                   <left>20</left>
-                  <width>250</width>
+                  <width>300</width>
                   <height>45</height>
                   <align>center</align>
                   <aligny>center</aligny>
@@ -558,6 +560,7 @@
                     <aligny>center</aligny>
                     <textcolor>white</textcolor>
                     <shadowcolor>black</shadowcolor>
+                    <scroll>true</scroll>
                     <label>31636</label>
                   </control>
                   <control type="button" id="9034">
@@ -676,7 +679,8 @@
                     <align>left</align>
                     <aligny>center</aligny>
                     <textcolor>white</textcolor>
-                    <shadowcolor>black</shadowcolor>                    
+                    <shadowcolor>black</shadowcolor>
+                    <scroll>true</scroll>
                     <label>31639</label><!-- Adjust -->
                   </control>
                   <control type="button" id="9042">
@@ -1175,7 +1179,7 @@
               <defaultcontrol>2</defaultcontrol>
               <visible>Control.HasFocus(9051) | Control.HasFocus(9055)</visible>
               <control type="label">
-                <top>-15</top>
+                <top>-25</top>
                 <left>20</left>
                 <align>left</align>
                 <textcolor>red</textcolor>
@@ -1265,7 +1269,7 @@
             <!-- Network information -->
             <control type="group" id="9056">
               <description>Network Control Group</description>
-              <posx>200</posx>
+              <posx>190</posx>
               <posy>0</posy>
               <width>544</width>
               <height>500</height>
@@ -1279,28 +1283,30 @@
                 <label>31720</label>
                 <!-- Network information -->
               </control>
-
               <!-- Wifi / network information list -->
               <control type="list" id="9057">
                 <top>50</top>
                 <left>20</left>
-                <width>600</width>
+                <width>420</width>
                 <height>480</height>
                 <pagecontrol>25</pagecontrol>
                 <orientation>vertical</orientation>
                 <visible>true</visible>
                 <itemlayout height="40">
                   <control type="label">
-                    <width>500</width>
+                    <width>410</width>
+                    <wrapmultiline>true</wrapmultiline>
                     <height>45</height>
+                    <scroll>true</scroll>
                     <label>$INFO[ListItem.Label]</label>
                   </control>
                 </itemlayout>
                 <focusedlayout height="40">
                   <control type="label">
-                    <width>500</width>
+                    <width>410</width>
                     <height>45</height>
-                    <font>normal_item</font>
+                    <wrapmultiline>true</wrapmultiline>
+                    <scroll>true</scroll>
                     <label>$INFO[ListItem.Label]</label>
                   </control>
                 </focusedlayout>

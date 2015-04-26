@@ -536,6 +536,401 @@ msgctxt "#31511"
 msgid "Channel Options"
 msgstr "Opzioni Canale"
 
+
+#START Alienware skin
+#Power menu
+
+msgctxt "#31600"
+msgid "WELCOME TO ALPHA UI"
+msgstr "BENVENUTO IN ALPHA UI"
+
+msgctxt "#31601"
+msgid "SHUT DOWN CONSOLE"
+msgstr "ARRESTA CONSOLE"
+
+msgctxt "#31602"
+msgid "RESTART CONSOLE"
+msgstr "RIAVVIA CONSOLE"
+
+msgctxt "#31603"
+msgid "SLEEP"
+msgstr "SOSPENSIONE"
+
+# Home menu
+msgctxt "#31604"
+msgid "Power"
+msgstr "ALIMENTAZIONE"
+
+msgctxt "#31605"
+msgid "Launch[CR]Steam"
+msgstr "AVVIA[CR]STEAM"
+
+msgctxt "#31606"
+msgid "Settings"
+msgstr "IMPOSTAZIONI"
+
+msgctxt "#31607"
+msgid "GO TO DESKTOP"
+msgstr "VAI SU DESKTOP"
+
+msgctxt "#31608"
+msgid "HELP"
+msgstr "GUIDA"
+
+msgctxt "#31609"
+msgid "Launch System Menu at anytime by pressing LT + LB + RT + RB + Guide button."
+msgstr "Avvia il menu di sistema in qualsiasi momento [CR]premendo LT + LB + RT + RB + pulsante Guida."
+
+# Settings screen - Video
+msgctxt "#31610"
+msgid "Video"
+msgstr "Video"
+
+msgctxt "#31611"
+msgid "Display"
+msgstr "Display"
+
+msgctxt "#31612"
+msgid "Scale to Screen"
+msgstr "Ridimensiona schermo"
+
+msgctxt "#31613"
+msgid "Display Resolution"
+msgstr "Risoluzione display"
+
+msgctxt "#31614"
+msgid "Refresh Rate"
+msgstr "Frequenza di aggiornamento"
+
+msgctxt "#31615"
+msgid "For an optimal gaming experience, please adjust your television's picture setting to properly fit the Alpha's video output.\n"
+"\n"
+"To do this you will need to use your television's remote control."
+msgstr "Per un'esperienza di gioco eccellente, regolare l'impostazione foto del televisore affinché si adatti all'uscita video di Alpha.\n"
+"\n"
+"Per fare questo è necessario utilizzare il telecomando della televisione."
+
+msgctxt "#31616"
+msgid "Display Settings"
+msgstr "Impostazioni display"
+
+msgctxt "#31617"
+msgid "Do you want to keep this display settings?"
+msgstr "Mantenere queste impostazioni display?"
+
+msgctxt "#31618"
+msgid "Apply"
+msgstr "Applica"
+
+msgctxt "#31619"
+msgid "Begin Scaling"
+msgstr "INIZIA DIMENSIONAMENTO"
+
+msgctxt "#31620"
+msgid "On most televisions, you can access the scaling tool under Menu > Settings > Picture.\n\nFrequently this option called: scale, view mode, scan, aspect ratio, screen fit, or smart fit.\n\nThe goal is to ensure the tip of each triangle is in the very corner of your television's screen.\nFor specific instructions on screen scaling for your television, please consult your TV's manual."
+msgstr "Nella maggior parte dei televisori, è possibile accedere allo strumento di ridimensionamento in Menu > Impostazioni > Immagine.\n"
+"\n"
+"Questa opzione viene chiamata spesso come: scala, modalità visualizzazione, scansione, proporzioni, regolazione schermo, regolazione intelligente.\n"
+"\n"
+"L'obiettivo è fare in modo che l'estremità di ciascun triangolo combaci con gli angoli dello schermo del televisore.\n"
+"Per istruzioni specifiche sul ridimensionamento dello schermo del televisore, consultare il manuale del televisore."
+
+msgctxt "#31621"
+msgid "Confirm"
+msgstr "Conferma"
+
+# Settings screen - Audio
+msgctxt "#31635"
+msgid "Audio"
+msgstr "Audio"
+
+msgctxt "#31636"
+msgid "Output"
+msgstr "Uscita"
+
+msgctxt "#31637"
+msgid "Volume"
+msgstr "Volume"
+
+msgctxt "#31638"
+msgid "Source"
+msgstr "Fonte"
+
+msgctxt "#31639"
+msgid "Adjust"
+msgstr "Regola"
+
+msgctxt "#31640"
+msgid "Audio output has been changed successfully. For changes to take effect you must restart Alpha."
+msgstr "L'uscita audio è stata modificata correttamente. Affinché le modifiche abbiamo effetto è necessario riavviare Alpha."
+
+msgctxt "#31641"
+msgid "Unable to change audio setting. Please check audio cable is connected properly."
+msgstr "Impossibile modificare l'impostazione audio. Verificare che il cavo audio sia collegato correttamente."
+
+# Settings screen - Backgrounds
+msgctxt "#31660"
+msgid "Backgrounds"
+msgstr "Sfondi"
+
+# Settings screen - Console
+msgctxt "#31685"
+msgid "Customization"
+msgstr "Personalizzazione"
+
+msgctxt "#31686"
+msgid "AlienFX"
+msgstr "AlienFX"
+
+msgctxt "#31687"
+msgid "Updates"
+msgstr "Aggiornamenti"
+
+msgctxt "#31688"
+msgid "Boot Options"
+msgstr "Opzione di avvio"
+
+# Settings screen - network
+msgctxt "#31710"
+msgid "Network"
+msgstr "Rete"
+
+msgctxt "#31711"
+msgid "Wifi"
+msgstr "Wifi"
+
+msgctxt "#31712"
+msgid "Information"
+msgstr "Informazioni"
+
+msgctxt "#31713"
+msgid "Choose a wireless network"
+msgstr "SCEGLI UNA RETE WIRELESS"
+
+msgctxt "#31714"
+msgid "Enter network password for {0}"
+msgstr "Inserire password di rete per {0}"
+
+msgctxt "#31715"
+msgid "Error"
+msgstr "Errore"
+
+msgctxt "#31716"
+msgid "Unable to connect. Please check your password and try again."
+msgstr "Impossibile collegarsi. Verificare la password e riprovare."
+
+msgctxt "#31717"
+msgid "Disconnect Wifi Network"
+msgstr "Scollegare la rete Wifi"
+
+msgctxt "#31718"
+msgid "Do you want to disconnect {0} ?"
+msgstr "Scollegare {0} ?"
+
+msgctxt "#31719"
+msgid "Unable to disconnect. Please try again."
+msgstr "Impossibile scollegare. Riprovare."
+
+msgctxt "#31720"
+msgid "Network information"
+msgstr "INFORMAZIONI DI RETE"
+
+msgctxt "#31721"
+msgid "Not ready"
+msgstr "Non pronto"
+
+msgctxt "#31722"
+msgid "Connected"
+msgstr "Connesso"
+
+msgctxt "#31723"
+msgid "Ad hoc network formed"
+msgstr "Rete creata ad hoc"
+
+msgctxt "#31724"
+msgid "Disconnecting"
+msgstr "Scollegamento"
+
+msgctxt "#31725"
+msgid "Disconnected"
+msgstr "Disconnessione"
+
+msgctxt "#31726"
+msgid "Associating"
+msgstr "Associazione"
+
+msgctxt "#31727"
+msgid "Discovering"
+msgstr "Ricerca"
+
+msgctxt "#31728"
+msgid "Authenticating"
+msgstr "Autenticazione"
+
+msgctxt "#31729"
+msgid "Connection Status : "
+msgstr "Stato connessione: "
+
+# Settings screen - Controller
+msgctxt "#31735"
+msgid "Controller"
+msgstr "Controller"
+
+# Settings screen - HDMI In
+msgctxt "#31760"
+msgid "HDMI in"
+msgstr "Ingresso HDMI"
+
+msgctxt "#31761"
+msgid "Activate"
+msgstr "Attiva"
+
+msgctxt "#31762"
+msgid "Turn Off"
+msgstr "Spegni"
+
+msgctxt "#31763"
+msgid "Turn On"
+msgstr "Accendi"
+
+msgctxt "#31764"
+msgid "In order to activate HDMI In, plug in HDMI cable."
+msgstr "Per attivare l'ingresso HDMI, collegare il cavo HDMI."
+
+msgctxt "#31766"
+msgid "To return to Alpha UI from HDMI In, select the Guide Menu."
+msgstr "Per ritornare ad Alpha UI dall'ingresso HDMI, selezionare il menu Guida."
+
+# Confirm Dialog
+msgctxt "#31781"
+msgid "Yes"
+msgstr "Sì"
+
+msgctxt "#31782"
+msgid "No"
+msgstr "No"
+
+msgctxt "#31783"
+msgid "Cancel"
+msgstr "Annulla"
+
+msgctxt "#31784"
+msgid "Restart"
+msgstr "Riavvia"
+
+msgctxt "#31785"
+msgid "OK"
+msgstr "OK"
+
+# Help
+msgctxt "#31800"
+msgid "Hotkeys"
+msgstr "Tasti di scelta rapida"
+
+msgctxt "#31810"
+msgid "Systems Menu"
+msgstr "Menu dei sistemi"
+
+msgctxt "#31811"
+msgid "Shifting Focus"
+msgstr "Spostamento focus"
+
+msgctxt "#31812"
+msgid "Full Screen"
+msgstr "Schermo intero"
+
+msgctxt "#31813"
+msgid "Controller Mouse"
+msgstr "Mouse controller"
+
+msgctxt "#31814"
+msgid "Guide"
+msgstr "Guida"
+
+msgctxt "#31815"
+msgid "Dpad Left"
+msgstr "Dpad sinistra"
+
+msgctxt "#31816"
+msgid "Dpad Right"
+msgstr "Dpad destra"
+
+msgctxt "#31817"
+msgid "Dpad Up"
+msgstr "Dpad su"
+
+msgctxt "#31818"
+msgid "L3"
+msgstr "L3"
+
+msgctxt "#31820"
+msgid "Hotkey Combination LT + LB + RT + RB + Guide button"
+msgstr "Combinazione LT + LB + RT + RB + pulsante Guida"
+
+msgctxt "#31821"
+msgid "Pressing LT + LB + RT + RB on the controller plus the Guide button will launch the Systems Menu."
+msgstr "Premendo LT + LB + RT + RB sul controller e il pulsante Guida avvierà il menu dei sistemi."
+
+msgctxt "#31822"
+msgid "Hotkey Combination LT + LB + RT + RB + Left or Right"
+msgstr "Combinazione tasti di scelta rapida LT + LB + RT + RB + Sinistra o Destra"
+
+msgctxt "#31823"
+msgid "Shift window focus using Dpad Left or Dpad Right. This function can also be accessed via keyboard with Alt + Tab (Shift Right) or Shift + Alt + Tab (Shift Left)."
+msgstr "Spostare il focus della finestra utilizzando Dpad sinistra o Dpad destra.  È possibile accedere a questa funzione anche tramite tastiera con Alt + Tab (MAIUSC destra) o MAIUSC + Alt + Scheda (MAIUSC sinistra)."
+
+msgctxt "#31824"
+msgid "Hotkey Combination LT + LB + RT + RB + Dpad Up"
+msgstr "Combinazione tasti di scelta rapida LT + LB + RT + RB + Dpad su"
+
+msgctxt "#31825"
+msgid "This hot key will attempt to show the application you are currently using in Full Screen. It is the same as Alt+Enter and F11 on a keyboard. Not all applications will respond to this hot key."
+msgstr "Questa combinazione tenterà di visualizzare a schermo pieno l'applicazione che si sta utilizzando al momento. È la stessa di Alt+Enter e F11 su una tastiera. Non tutte le applicazioni rispondono a questa combinazione."
+
+msgctxt "#31826"
+msgid "Hotkey Combination LT + LB + RT + RB + L3"
+msgstr "Combinazione tasti di scelta rapida LT + LB + RT + RB + L3"
+
+msgctxt "#31827"
+msgid "Hotkey Combination plus L3 pressed down, turns on the mouse driver. Pressing the Hotkey Combination again turns off the driver."
+msgstr "La combinazione di tasti di scelta rapida e L3 premuto attiva il driver del mouse. Premendo di nuovo la combinazione di tasti di scelta rapida si disattiva il driver."
+
+msgctxt "#31828"
+msgid "System software update failed. Shutdown console in order to begin software update."
+msgstr "Aggiornamento del software di sistema non riuscito. Arrestare la console per iniziare l'aggiornamento del software."
+
+msgctxt "#31829"
+msgid "New update available - shut down console to begin download"
+msgstr "Nuovo aggiornamento disponibile. Arrestare la console per iniziare il download."
+
+msgctxt "#31830"
+msgid "Close Application"
+msgstr "Chiudi applicazione"
+
+msgctxt "#31831"
+msgid "Dpad Down"
+msgstr "Pad direzionale giù"
+
+msgctxt "#31832"
+msgid "Hotkey Combination LT + LB + RT + RB + Dpad Down"
+msgstr "Combinazione di tasti di scelta rapida LT + LB + RT + RB + pad direzionale giù"
+
+msgctxt "#31833"
+msgid "This hot key will attempt to close the application you are currently using. It is the same as Alt+F4 and Alt+Q on a keyboard. Not all applications will respond to this hot key."
+msgstr "Questa combinazione tenterà di chiudere l'applicazione che si sta utilizzando. È la stessa di Alt+F4 e Alt+Q su una tastiera. Non tutte le applicazioni rispondono a questa combinazione."
+
+# Miscellaneous
+msgctxt "#31840"
+msgid "Connect mouse to enable desktop mode"
+msgstr "Collegare il mouse per abilitare la modalità desktop"
+
+msgctxt "#31841"
+msgid "INITIALIZING STEAM"
+msgstr "INIZIALIZZAZIONE STEAM"
+
+#END Alienware skin
+
+
 msgctxt "#31901"
 msgid "36 Hour Forecast"
 msgstr "Previsioni a 36 Ore"
